@@ -42,3 +42,11 @@ Repositório com notebooks desenvolvidos nas aulas de Processamento de Linguagem
 - Verificando o conteúdo do Corpus Machado e extraindo
 - Etiquetação Morfológica (POS tagging)
 - Geração de gráfico para demonstração de resultados
+## PROJETO 01 - Análise Quantitativa de Corpus
+- Processamento de corpus
+- Buscador de palavras
+## PROJETO 02 - Análise de Estatística Descritiva
+- Verificando o conteúdo do Corpus Machado e extraindo
+- Etiquetação Morfológica (POS tagging)
+- Geração de gráfico para demonstração de resultados
+- Análise de classe gramaticais
