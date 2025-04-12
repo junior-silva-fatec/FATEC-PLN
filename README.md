@@ -1,4 +1,8 @@
 # FATEC-PLN
+### Fatec Mauá
+Desenvolvimento de Software Multiplataforma  
+Prof. Rodolfo Lovera
+ 
 Repositório com notebooks desenvolvidos nas aulas de Processamento de Linguagem Natural
 ## Aula 02 - Python e bibliotecas para PLN
 - Sintaxe Básica
