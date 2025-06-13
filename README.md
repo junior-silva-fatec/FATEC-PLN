@@ -42,6 +42,18 @@ Repositório com notebooks desenvolvidos nas aulas de Processamento de Linguagem
 - Verificando o conteúdo do Corpus Machado e extraindo
 - Etiquetação Morfológica (POS tagging)
 - Geração de gráfico para demonstração de resultados
+## Aula 10 - Análise de Sentimentos com Naive Bayes
+- Análise de sentimentos com NLTK e VADER
+- Classificador Naive Bayes para avaliações de filmes
+## Aula 11 - Pipeline de Classificação de Texto com Scikit-learn
+- Pré-processamento de Texto
+- Extração de Características com TF-IDF
+- Treinamento e Comparação de Modelos
+- Avaliação e Classificação
+## Aula 13 - Redes Neurais para Processamento de Linguagem Natural
+- Rede Neural Recorrente (RNN) para Previsão de Palavras
+- Rede Neural LSTM para Classificação de Sentimentos
+- Pipeline de Deep Learning
 ## PROJETO 01 - Análise Quantitativa de Corpus
 - Processamento de corpus
 - Buscador de palavras
